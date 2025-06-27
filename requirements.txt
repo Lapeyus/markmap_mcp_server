@@ -1,0 +1,12 @@
+langchain-zotero-retriever 
+pyzotero
+langchain-community
+google-adk==1.5.0
+
+
+litellm==1.72.1
+mcp==1.9.2
+
+langchain-experimental
+beautifulsoup4
+mcp-server-fetch
